@@ -1,3 +1,7 @@
-C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/Sokoban.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/dfs.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/bfs.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/uniform.dir
 C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/greedy_best.dir
 C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/a_star.dir

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Sokoban.dir/bfs.cpp.obj"
   "CMakeFiles/Sokoban.dir/dfs.cpp.obj"
   "Sokoban.exe"
   "Sokoban.exe.manifest"

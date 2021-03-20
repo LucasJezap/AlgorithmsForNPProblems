@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/dfs.cpp
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/bfs.cpp
 iostream
 -
 bits/stdc++.h

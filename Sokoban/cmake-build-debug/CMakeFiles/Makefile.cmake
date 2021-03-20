@@ -53,5 +53,9 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/Sokoban.dir/DependInfo.cmake"
+  "CMakeFiles/dfs.dir/DependInfo.cmake"
+  "CMakeFiles/bfs.dir/DependInfo.cmake"
+  "CMakeFiles/uniform.dir/DependInfo.cmake"
+  "CMakeFiles/greedy_best.dir/DependInfo.cmake"
+  "CMakeFiles/a_star.dir/DependInfo.cmake"
   )

@@ -130,17 +130,123 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Sokoban
+# Target rules for targets named dfs
 
 # Build rule for target.
-Sokoban: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Sokoban
-.PHONY : Sokoban
+dfs: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 dfs
+.PHONY : dfs
 
 # fast build rule for target.
-Sokoban/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sokoban.dir\build.make CMakeFiles/Sokoban.dir/build
-.PHONY : Sokoban/fast
+dfs/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dfs.dir\build.make CMakeFiles/dfs.dir/build
+.PHONY : dfs/fast
+
+#=============================================================================
+# Target rules for targets named bfs
+
+# Build rule for target.
+bfs: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 bfs
+.PHONY : bfs
+
+# fast build rule for target.
+bfs/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfs.dir\build.make CMakeFiles/bfs.dir/build
+.PHONY : bfs/fast
+
+#=============================================================================
+# Target rules for targets named uniform
+
+# Build rule for target.
+uniform: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 uniform
+.PHONY : uniform
+
+# fast build rule for target.
+uniform/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uniform.dir\build.make CMakeFiles/uniform.dir/build
+.PHONY : uniform/fast
+
+#=============================================================================
+# Target rules for targets named greedy_best
+
+# Build rule for target.
+greedy_best: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 greedy_best
+.PHONY : greedy_best
+
+# fast build rule for target.
+greedy_best/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greedy_best.dir\build.make CMakeFiles/greedy_best.dir/build
+.PHONY : greedy_best/fast
+
+#=============================================================================
+# Target rules for targets named a_star
+
+# Build rule for target.
+a_star: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 a_star
+.PHONY : a_star
+
+# fast build rule for target.
+a_star/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a_star.dir\build.make CMakeFiles/a_star.dir/build
+.PHONY : a_star/fast
+
+a_star.obj: a_star.cpp.obj
+
+.PHONY : a_star.obj
+
+# target to build an object file
+a_star.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a_star.dir\build.make CMakeFiles/a_star.dir/a_star.cpp.obj
+.PHONY : a_star.cpp.obj
+
+a_star.i: a_star.cpp.i
+
+.PHONY : a_star.i
+
+# target to preprocess a source file
+a_star.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a_star.dir\build.make CMakeFiles/a_star.dir/a_star.cpp.i
+.PHONY : a_star.cpp.i
+
+a_star.s: a_star.cpp.s
+
+.PHONY : a_star.s
+
+# target to generate assembly for a file
+a_star.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a_star.dir\build.make CMakeFiles/a_star.dir/a_star.cpp.s
+.PHONY : a_star.cpp.s
+
+bfs.obj: bfs.cpp.obj
+
+.PHONY : bfs.obj
+
+# target to build an object file
+bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfs.dir\build.make CMakeFiles/bfs.dir/bfs.cpp.obj
+.PHONY : bfs.cpp.obj
+
+bfs.i: bfs.cpp.i
+
+.PHONY : bfs.i
+
+# target to preprocess a source file
+bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfs.dir\build.make CMakeFiles/bfs.dir/bfs.cpp.i
+.PHONY : bfs.cpp.i
+
+bfs.s: bfs.cpp.s
+
+.PHONY : bfs.s
+
+# target to generate assembly for a file
+bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfs.dir\build.make CMakeFiles/bfs.dir/bfs.cpp.s
+.PHONY : bfs.cpp.s
 
 dfs.obj: dfs.cpp.obj
 
@@ -148,7 +254,7 @@ dfs.obj: dfs.cpp.obj
 
 # target to build an object file
 dfs.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sokoban.dir\build.make CMakeFiles/Sokoban.dir/dfs.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dfs.dir\build.make CMakeFiles/dfs.dir/dfs.cpp.obj
 .PHONY : dfs.cpp.obj
 
 dfs.i: dfs.cpp.i
@@ -157,7 +263,7 @@ dfs.i: dfs.cpp.i
 
 # target to preprocess a source file
 dfs.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sokoban.dir\build.make CMakeFiles/Sokoban.dir/dfs.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dfs.dir\build.make CMakeFiles/dfs.dir/dfs.cpp.i
 .PHONY : dfs.cpp.i
 
 dfs.s: dfs.cpp.s
@@ -166,8 +272,62 @@ dfs.s: dfs.cpp.s
 
 # target to generate assembly for a file
 dfs.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sokoban.dir\build.make CMakeFiles/Sokoban.dir/dfs.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dfs.dir\build.make CMakeFiles/dfs.dir/dfs.cpp.s
 .PHONY : dfs.cpp.s
+
+greedy_best_first.obj: greedy_best_first.cpp.obj
+
+.PHONY : greedy_best_first.obj
+
+# target to build an object file
+greedy_best_first.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greedy_best.dir\build.make CMakeFiles/greedy_best.dir/greedy_best_first.cpp.obj
+.PHONY : greedy_best_first.cpp.obj
+
+greedy_best_first.i: greedy_best_first.cpp.i
+
+.PHONY : greedy_best_first.i
+
+# target to preprocess a source file
+greedy_best_first.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greedy_best.dir\build.make CMakeFiles/greedy_best.dir/greedy_best_first.cpp.i
+.PHONY : greedy_best_first.cpp.i
+
+greedy_best_first.s: greedy_best_first.cpp.s
+
+.PHONY : greedy_best_first.s
+
+# target to generate assembly for a file
+greedy_best_first.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greedy_best.dir\build.make CMakeFiles/greedy_best.dir/greedy_best_first.cpp.s
+.PHONY : greedy_best_first.cpp.s
+
+uniform_cost.obj: uniform_cost.cpp.obj
+
+.PHONY : uniform_cost.obj
+
+# target to build an object file
+uniform_cost.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uniform.dir\build.make CMakeFiles/uniform.dir/uniform_cost.cpp.obj
+.PHONY : uniform_cost.cpp.obj
+
+uniform_cost.i: uniform_cost.cpp.i
+
+.PHONY : uniform_cost.i
+
+# target to preprocess a source file
+uniform_cost.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uniform.dir\build.make CMakeFiles/uniform.dir/uniform_cost.cpp.i
+.PHONY : uniform_cost.cpp.i
+
+uniform_cost.s: uniform_cost.cpp.s
+
+.PHONY : uniform_cost.s
+
+# target to generate assembly for a file
+uniform_cost.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uniform.dir\build.make CMakeFiles/uniform.dir/uniform_cost.cpp.s
+.PHONY : uniform_cost.cpp.s
 
 # Help Target
 help:
@@ -177,10 +337,26 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Sokoban
+	@echo ... a_star
+	@echo ... bfs
+	@echo ... dfs
+	@echo ... greedy_best
+	@echo ... uniform
+	@echo ... a_star.obj
+	@echo ... a_star.i
+	@echo ... a_star.s
+	@echo ... bfs.obj
+	@echo ... bfs.i
+	@echo ... bfs.s
 	@echo ... dfs.obj
 	@echo ... dfs.i
 	@echo ... dfs.s
+	@echo ... greedy_best_first.obj
+	@echo ... greedy_best_first.i
+	@echo ... greedy_best_first.s
+	@echo ... uniform_cost.obj
+	@echo ... uniform_cost.i
+	@echo ... uniform_cost.s
 .PHONY : help
 
 

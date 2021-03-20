@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/bfs.cpp" "C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/Sokoban.dir/bfs.cpp.obj"
   "C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/dfs.cpp" "C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/Sokoban.dir/dfs.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

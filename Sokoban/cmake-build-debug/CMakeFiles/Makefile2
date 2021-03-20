@@ -72,7 +72,11 @@ CMAKE_BINARY_DIR = "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmak
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/Sokoban.dir/all
+all: CMakeFiles/dfs.dir/all
+all: CMakeFiles/bfs.dir/all
+all: CMakeFiles/uniform.dir/all
+all: CMakeFiles/greedy_best.dir/all
+all: CMakeFiles/a_star.dir/all
 
 .PHONY : all
 
@@ -82,36 +86,148 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/Sokoban.dir/clean
+clean: CMakeFiles/dfs.dir/clean
+clean: CMakeFiles/bfs.dir/clean
+clean: CMakeFiles/uniform.dir/clean
+clean: CMakeFiles/greedy_best.dir/clean
+clean: CMakeFiles/a_star.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Sokoban.dir
+# Target rules for target CMakeFiles/dfs.dir
 
 # All Build rule for target.
-CMakeFiles/Sokoban.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sokoban.dir\build.make CMakeFiles/Sokoban.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sokoban.dir\build.make CMakeFiles/Sokoban.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Sokoban"
-.PHONY : CMakeFiles/Sokoban.dir/all
+CMakeFiles/dfs.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dfs.dir\build.make CMakeFiles/dfs.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dfs.dir\build.make CMakeFiles/dfs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target dfs"
+.PHONY : CMakeFiles/dfs.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Sokoban.dir/rule: cmake_check_build_system
+CMakeFiles/dfs.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Sokoban.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/dfs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 0
-.PHONY : CMakeFiles/Sokoban.dir/rule
+.PHONY : CMakeFiles/dfs.dir/rule
 
 # Convenience name for target.
-Sokoban: CMakeFiles/Sokoban.dir/rule
+dfs: CMakeFiles/dfs.dir/rule
 
-.PHONY : Sokoban
+.PHONY : dfs
 
 # clean rule for target.
-CMakeFiles/Sokoban.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sokoban.dir\build.make CMakeFiles/Sokoban.dir/clean
-.PHONY : CMakeFiles/Sokoban.dir/clean
+CMakeFiles/dfs.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dfs.dir\build.make CMakeFiles/dfs.dir/clean
+.PHONY : CMakeFiles/dfs.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/bfs.dir
+
+# All Build rule for target.
+CMakeFiles/bfs.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfs.dir\build.make CMakeFiles/bfs.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfs.dir\build.make CMakeFiles/bfs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target bfs"
+.PHONY : CMakeFiles/bfs.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/bfs.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/bfs.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/bfs.dir/rule
+
+# Convenience name for target.
+bfs: CMakeFiles/bfs.dir/rule
+
+.PHONY : bfs
+
+# clean rule for target.
+CMakeFiles/bfs.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfs.dir\build.make CMakeFiles/bfs.dir/clean
+.PHONY : CMakeFiles/bfs.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/uniform.dir
+
+# All Build rule for target.
+CMakeFiles/uniform.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uniform.dir\build.make CMakeFiles/uniform.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uniform.dir\build.make CMakeFiles/uniform.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target uniform"
+.PHONY : CMakeFiles/uniform.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/uniform.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/uniform.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/uniform.dir/rule
+
+# Convenience name for target.
+uniform: CMakeFiles/uniform.dir/rule
+
+.PHONY : uniform
+
+# clean rule for target.
+CMakeFiles/uniform.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\uniform.dir\build.make CMakeFiles/uniform.dir/clean
+.PHONY : CMakeFiles/uniform.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/greedy_best.dir
+
+# All Build rule for target.
+CMakeFiles/greedy_best.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greedy_best.dir\build.make CMakeFiles/greedy_best.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greedy_best.dir\build.make CMakeFiles/greedy_best.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target greedy_best"
+.PHONY : CMakeFiles/greedy_best.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/greedy_best.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/greedy_best.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/greedy_best.dir/rule
+
+# Convenience name for target.
+greedy_best: CMakeFiles/greedy_best.dir/rule
+
+.PHONY : greedy_best
+
+# clean rule for target.
+CMakeFiles/greedy_best.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\greedy_best.dir\build.make CMakeFiles/greedy_best.dir/clean
+.PHONY : CMakeFiles/greedy_best.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/a_star.dir
+
+# All Build rule for target.
+CMakeFiles/a_star.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a_star.dir\build.make CMakeFiles/a_star.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a_star.dir\build.make CMakeFiles/a_star.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target a_star"
+.PHONY : CMakeFiles/a_star.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/a_star.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/a_star.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/a_star.dir/rule
+
+# Convenience name for target.
+a_star: CMakeFiles/a_star.dir/rule
+
+.PHONY : a_star
+
+# clean rule for target.
+CMakeFiles/a_star.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a_star.dir\build.make CMakeFiles/a_star.dir/clean
+.PHONY : CMakeFiles/a_star.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
