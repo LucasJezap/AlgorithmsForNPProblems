@@ -1,0 +1,3 @@
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/Sokoban.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/rebuild_cache.dir
