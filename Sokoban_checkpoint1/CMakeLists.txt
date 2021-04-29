@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.17)
+project(Sokoban)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(dfs src/dfs.cpp)
+add_executable(bfs src/bfs.cpp)
+add_executable(uniform src/uniform_cost.cpp)
+add_executable(greedy_best src/greedy_best_first.cpp)
+add_executable(a_star src/a_star.cpp)
+add_executable(dfs_pull src/dfs_pull.cpp)
+add_executable(bfs_pull src/bfs_pull.cpp)
+add_executable(uniform_pull src/uniform_cost_pull.cpp)
+add_executable(greedy_best_pull src/greedy_best_first_pull.cpp)
+add_executable(a_star_pull src/a_star_pull.cpp)

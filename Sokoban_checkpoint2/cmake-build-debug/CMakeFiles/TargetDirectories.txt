@@ -1,0 +1,8 @@
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

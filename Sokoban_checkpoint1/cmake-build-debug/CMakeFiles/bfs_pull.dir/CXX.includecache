@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/src/bfs_pull.cpp
+iostream
+-
+bits/stdc++.h
+-
+

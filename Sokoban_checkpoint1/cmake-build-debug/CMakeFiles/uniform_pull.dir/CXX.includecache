@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban/src/uniform_cost_pull.cpp
+iostream
+-
+bits/stdc++.h
+-
+

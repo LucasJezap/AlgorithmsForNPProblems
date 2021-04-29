@@ -40,7 +40,7 @@ def solution(path):
 
 
 # tests = os.listdir("graph/graph/")
-tests = ['s50']
+tests = ['b100']
 
 for i in tests:
     time1 = time.time()

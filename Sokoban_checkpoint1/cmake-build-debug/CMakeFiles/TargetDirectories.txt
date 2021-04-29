@@ -1,0 +1,12 @@
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/bfs_pull.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/dfs.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/bfs.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/uniform_pull.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/uniform.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/greedy_best.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/a_star.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/dfs_pull.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/greedy_best_pull.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/a_star_pull.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bossg/Desktop/AGH Semestr 6/APTO/Sokoban/cmake-build-debug/CMakeFiles/rebuild_cache.dir
