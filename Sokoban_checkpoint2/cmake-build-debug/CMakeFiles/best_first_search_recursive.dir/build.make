@@ -61,10 +61,10 @@ RM = "D:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2"
+CMAKE_SOURCE_DIR = C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/best_first_search_recursive.dir/depend.make
@@ -77,16 +77,16 @@ include CMakeFiles/best_first_search_recursive.dir/flags.make
 
 CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.obj: CMakeFiles/best_first_search_recursive.dir/flags.make
 CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.obj: ../best_first_search_recursive.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\best_first_search_recursive.dir\best_first_search_recursive.cpp.obj -c "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\best_first_search_recursive.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\best_first_search_recursive.dir\best_first_search_recursive.cpp.obj -c C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\best_first_search_recursive.cpp
 
 CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\best_first_search_recursive.cpp" > CMakeFiles\best_first_search_recursive.dir\best_first_search_recursive.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\best_first_search_recursive.cpp > CMakeFiles\best_first_search_recursive.dir\best_first_search_recursive.cpp.i
 
 CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\best_first_search_recursive.cpp" -o CMakeFiles\best_first_search_recursive.dir\best_first_search_recursive.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\best_first_search_recursive.cpp -o CMakeFiles\best_first_search_recursive.dir\best_first_search_recursive.cpp.s
 
 # Object files for target best_first_search_recursive
 best_first_search_recursive_OBJECTS = \
@@ -100,7 +100,7 @@ best_first_search_recursive.exe: CMakeFiles/best_first_search_recursive.dir/buil
 best_first_search_recursive.exe: CMakeFiles/best_first_search_recursive.dir/linklibs.rsp
 best_first_search_recursive.exe: CMakeFiles/best_first_search_recursive.dir/objects1.rsp
 best_first_search_recursive.exe: CMakeFiles/best_first_search_recursive.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable best_first_search_recursive.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable best_first_search_recursive.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\best_first_search_recursive.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -113,6 +113,6 @@ CMakeFiles/best_first_search_recursive.dir/clean:
 .PHONY : CMakeFiles/best_first_search_recursive.dir/clean
 
 CMakeFiles/best_first_search_recursive.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2" "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2" "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug" "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug" "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles\best_first_search_recursive.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2 C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2 C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles\best_first_search_recursive.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/best_first_search_recursive.dir/depend
 

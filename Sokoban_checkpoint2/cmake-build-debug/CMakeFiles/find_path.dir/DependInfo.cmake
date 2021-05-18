@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/find_path.cpp" "C:/Users/yyy/OneDrive/Pulpit/AGH Semestr 6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/find_path.cpp.obj"
+  "C:/Users/yyy/OneDrive/Pulpit/AGHSemestr6/APTO/Sokoban_checkpoint2/find_path.cpp" "C:/Users/yyy/OneDrive/Pulpit/AGHSemestr6/APTO/Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/find_path.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

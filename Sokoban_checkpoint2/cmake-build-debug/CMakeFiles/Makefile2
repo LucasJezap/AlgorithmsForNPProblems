@@ -62,10 +62,10 @@ RM = "D:\Program Files\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2"
+CMAKE_SOURCE_DIR = C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -102,14 +102,14 @@ clean: CMakeFiles/best_first_search.dir/clean
 CMakeFiles/best_first_search_recursive.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\best_first_search_recursive.dir\build.make CMakeFiles/best_first_search_recursive.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\best_first_search_recursive.dir\build.make CMakeFiles/best_first_search_recursive.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target best_first_search_recursive"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target best_first_search_recursive"
 .PHONY : CMakeFiles/best_first_search_recursive.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/best_first_search_recursive.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/best_first_search_recursive.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/best_first_search_recursive.dir/rule
 
 # Convenience name for target.
@@ -129,14 +129,14 @@ CMakeFiles/best_first_search_recursive.dir/clean:
 CMakeFiles/find_path.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\find_path.dir\build.make CMakeFiles/find_path.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\find_path.dir\build.make CMakeFiles/find_path.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target find_path"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target find_path"
 .PHONY : CMakeFiles/find_path.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/find_path.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/find_path.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/find_path.dir/rule
 
 # Convenience name for target.
@@ -156,14 +156,14 @@ CMakeFiles/find_path.dir/clean:
 CMakeFiles/main.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=11,12 "Built target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target main"
 .PHONY : CMakeFiles/main.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/main.dir/rule
 
 # Convenience name for target.
@@ -183,14 +183,14 @@ CMakeFiles/main.dir/clean:
 CMakeFiles/find_path_recursive.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\find_path_recursive.dir\build.make CMakeFiles/find_path_recursive.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\find_path_recursive.dir\build.make CMakeFiles/find_path_recursive.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target find_path_recursive"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target find_path_recursive"
 .PHONY : CMakeFiles/find_path_recursive.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/find_path_recursive.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/find_path_recursive.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/find_path_recursive.dir/rule
 
 # Convenience name for target.
@@ -210,14 +210,14 @@ CMakeFiles/find_path_recursive.dir/clean:
 CMakeFiles/checkpoint2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\checkpoint2.dir\build.make CMakeFiles/checkpoint2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\checkpoint2.dir\build.make CMakeFiles/checkpoint2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target checkpoint2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target checkpoint2"
 .PHONY : CMakeFiles/checkpoint2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/checkpoint2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/checkpoint2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/checkpoint2.dir/rule
 
 # Convenience name for target.
@@ -237,14 +237,14 @@ CMakeFiles/checkpoint2.dir/clean:
 CMakeFiles/best_first_search.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\best_first_search.dir\build.make CMakeFiles/best_first_search.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\best_first_search.dir\build.make CMakeFiles/best_first_search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target best_first_search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target best_first_search"
 .PHONY : CMakeFiles/best_first_search.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/best_first_search.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/best_first_search.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\yyy\OneDrive\Pulpit\AGH Semestr 6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\yyy\OneDrive\Pulpit\AGHSemestr6\APTO\Sokoban_checkpoint2\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/best_first_search.dir/rule
 
 # Convenience name for target.

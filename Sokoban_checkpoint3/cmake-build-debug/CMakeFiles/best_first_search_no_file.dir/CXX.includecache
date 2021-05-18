@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yyy/OneDrive/Pulpit/AGHSemestr6/APTO/Sokoban_checkpoint3/best_first_search_no_file.cpp
+iostream
+-
+bits/stdc++.h
+-
+string
+-
+
