@@ -2,159 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ac05c4-995d-4b76-a3d4-fc1f797f5a61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/e20.sol" beforeDir="false" afterPath="$PROJECT_DIR$/graph/e20.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/e5.sol" beforeDir="false" afterPath="$PROJECT_DIR$/graph/e5.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/a_star_pull.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/best_first_search.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/best_first_search.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/best_first_search_recursive.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/best_first_search_recursive.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/bfs_pull.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/checkpoint2.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/checkpoint2.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/dfs_pull.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/find_path.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/find_path_recursive.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/find_path_recursive.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/greedy_best_pull.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/main.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/CMakeFiles/uniform_pull.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/Sokoban.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/Sokoban.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/best_first_search.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/best_first_search.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint2/input" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint2/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/best_first_search.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/best_first_search.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/best_first_search_no_file.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/best_first_search_no_file.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search.dir/best_first_search.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search.dir/best_first_search.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search_no_file.dir/best_first_search_no_file.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search_no_file.dir/best_first_search_no_file.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search_no_file.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/CMakeFiles/best_first_search_no_file.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/best_first_search.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/best_first_search.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/best_first_search_no_file.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Sokoban_checkpoint3/cmake-build-debug/best_first_search_no_file.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,6 +191,7 @@
       <workItem from="1621333472319" duration="2000" />
       <workItem from="1621333487111" duration="172000" />
       <workItem from="1621333672417" duration="7000" />
+      <workItem from="1622540747038" duration="30000" />
     </task>
     <servers />
   </component>

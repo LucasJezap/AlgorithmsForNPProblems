@@ -90,13 +90,6 @@ bool vector_contains(const vector<Coordinate *> &values, Coordinate *value) {
 }
 
 bool is_player_move_viable(Coordinate ***maze, Coordinate *position) {
-//    for (auto box: boxes) {
-//        cout << "(" << box->row << "," << box->column << ") ";
-//    }
-//    cout << "       (" << position->row << "," << position->column << ") " << (position->row >= 0 && position->row < rows &&
-//    position->column >= 0 && position->column < cols &&
-//    maze[position->row][position->column]->type != WALL &&
-//    !vector_contains(boxes, maze[position->row][position->column])) << endl;
     return position->row >= 0 && position->row < rows &&
            position->column >= 0 && position->column < cols &&
            maze[position->row][position->column]->type != WALL &&

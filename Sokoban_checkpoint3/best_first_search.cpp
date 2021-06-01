@@ -51,16 +51,16 @@ vector<Coordinate *> boxes;
 struct Move {
     Coordinate *newPosition{};
     Coordinate *playerPosition{};
-    int cost{};
+    double cost{};
     int move{};
     bool isViable{};
     string path;
 
-    Move(Coordinate *newPosition, int cost, string path)
+    Move(Coordinate *newPosition, double cost, string path)
             : newPosition(newPosition), cost(cost),
               isViable(false), path(std::move(path)) {}
 
-    Move(Coordinate *newPosition, Coordinate *playerPosition, int cost, string path, int move)
+    Move(Coordinate *newPosition, Coordinate *playerPosition, double cost, string path, int move)
             : newPosition(newPosition), playerPosition(playerPosition), cost(cost),
               isViable(false), path(std::move(path)), move(move) {}
 
@@ -77,8 +77,8 @@ struct CompareMove {
 };
 
 
-int greedy_cost(Coordinate *position, Coordinate *goal) {
-    return abs(position->row - goal->row) + abs(position->column - goal->column);
+double greedy_cost(Coordinate *position, Coordinate *goal) {
+    return sqrt(pow(position->row - goal->row, 2) + pow(position->column - goal->column, 2));
 }
 
 bool vector_contains(const vector<Coordinate *> &values, Coordinate *value) {
